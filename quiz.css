@@ -1,0 +1,32 @@
+.quiz-wrapper{
+    max-width: 500px;
+    max-height: auto;
+    margin: 120px auto;
+    box-shadow: 5px 10px whitesmoke;
+}
+.quiz-container h2,h3{
+    color:rgba(137, 43, 226, 0.832);
+}
+
+#ques{
+    padding-left: 20px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    padding: 5px;
+}
+#submit{
+    width: 100%;
+    background-color: rgba(137, 43, 226, 0.832);
+    padding: 10px;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+}
+#submit:hover{
+    cursor: pointer;
+}
